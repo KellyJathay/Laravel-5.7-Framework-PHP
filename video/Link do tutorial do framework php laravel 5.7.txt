@@ -1,0 +1,5 @@
+(CRUD Completo | Laravel 5.7)
+
+* Link do vídeo no youtube: 
+
+https://youtu.be/cVoog4lW0_A 
